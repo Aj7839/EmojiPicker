@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct EmojiPickerApp: App {
-    var body: some Scene {
-        WindowGroup {
-            
-        }
+struct Emoji_SearchApp: App {
+  var body: some Scene {
+    WindowGroup {
+      ContentView()
     }
+  }
 }

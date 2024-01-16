@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C53761A02B56A8C50069CCEB /* EmojiPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = C537619F2B56A8C50069CCEB /* EmojiPicker.swift */; };
 		C59DE8B62B544E1700175317 /* EmojiPickerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C59DE8B52B544E1700175317 /* EmojiPickerApp.swift */; };
 		C59DE8B82B544E1700175317 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C59DE8B72B544E1700175317 /* ContentView.swift */; };
 		C59DE8BA2B544E1A00175317 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C59DE8B92B544E1A00175317 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C537619F2B56A8C50069CCEB /* EmojiPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiPicker.swift; sourceTree = "<group>"; };
 		C59DE8B22B544E1700175317 /* EmojiPicker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EmojiPicker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C59DE8B52B544E1700175317 /* EmojiPickerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiPickerApp.swift; sourceTree = "<group>"; };
 		C59DE8B72B544E1700175317 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 			children = (
 				C59DE8B52B544E1700175317 /* EmojiPickerApp.swift */,
 				C59DE8B72B544E1700175317 /* ContentView.swift */,
+				C537619F2B56A8C50069CCEB /* EmojiPicker.swift */,
 				C59DE8B92B544E1A00175317 /* Assets.xcassets */,
 				C59DE8BB2B544E1A00175317 /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C59DE8B82B544E1700175317 /* ContentView.swift in Sources */,
+				C53761A02B56A8C50069CCEB /* EmojiPicker.swift in Sources */,
 				C59DE8B62B544E1700175317 /* EmojiPickerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
